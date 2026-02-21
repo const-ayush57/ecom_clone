@@ -81,12 +81,4 @@ npm start
     └── products/           # 240 product images (local)
 ```
 
-## Screenshots
 
-### Mobile View
-<img src="https://via.placeholder.com/300x600?text=Mobile+View" alt="Mobile" width="300"/>
-
-### Desktop View
-<img src="https://via.placeholder.com/800x500?text=Desktop+View" alt="Desktop" width="800"/>
-
-> Replace the placeholder screenshots above with actual screenshots of your deployed app.
