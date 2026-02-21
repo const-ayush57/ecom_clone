@@ -90,7 +90,3 @@ npm start
 <img src="https://via.placeholder.com/800x500?text=Desktop+View" alt="Desktop" width="800"/>
 
 > Replace the placeholder screenshots above with actual screenshots of your deployed app.
-
-## License
-
-This project is for **educational purposes only**. All product data and images belong to their respective owners at [wholesellerindia.in](https://wholesellerindia.in).
