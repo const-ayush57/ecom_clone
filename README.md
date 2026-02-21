@@ -1,6 +1,6 @@
 # Wholeseller India Clone
 
-A pixel-perfect clone of [wholesellerindia.in](https://wholesellerindia.in) — an e-commerce wholesale gadgets store — built with **Next.js 16**, **TypeScript**, and **Tailwind CSS**.
+A pixel-perfect clone of an e-commerce wholesale gadgets store — built with **Next.js 16**, **TypeScript**, and **Tailwind CSS**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
